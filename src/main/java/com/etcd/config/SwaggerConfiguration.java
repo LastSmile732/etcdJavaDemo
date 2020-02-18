@@ -1,4 +1,4 @@
-package com.geminidata.config;
+package com.etcd.config;
 
 import com.google.common.base.Predicate;
 import com.google.common.base.Predicates;
@@ -35,7 +35,7 @@ public class SwaggerConfiguration {
         return new Docket(DocumentationType.SWAGGER_2)
                 .groupName("node")
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.geminidata.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.etcd.controller"))
                 .paths(PathSelectors.any())
                 .build()
                 .apiInfo(apiInfo("Node Sevice API",

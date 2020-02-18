@@ -1,11 +1,11 @@
-package com.geminidata.data.repository;
+package com.etcd.data.repository;
 
 import org.apache.naming.java.javaURLContextFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import com.etcd.data.entity.Node;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.geminidata.data.entity.Node;
 
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;

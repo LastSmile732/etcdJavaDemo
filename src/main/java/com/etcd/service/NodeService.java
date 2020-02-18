@@ -1,11 +1,11 @@
-package com.geminidata.service;
+package com.etcd.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.geminidata.data.entity.Node;
-import com.geminidata.data.repository.NodeRepository;
-import com.geminidata.model.NodeRequest;
+import com.etcd.data.entity.Node;
+import com.etcd.data.repository.NodeRepository;
+import com.etcd.model.NodeRequest;
 
 import java.util.HashMap;
 import java.util.List;

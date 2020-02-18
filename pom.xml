@@ -8,7 +8,7 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.geminidata.manage</groupId>
+	<groupId>com.etcd.demo</groupId>
 	<artifactId>etcdMaster</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>etcdMaster</name>

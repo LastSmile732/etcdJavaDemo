@@ -1,4 +1,4 @@
-package com.geminidata.model;
+package com.etcd.model;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,4 +1,4 @@
-package com.geminidata.controller;
+package com.etcd.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.geminidata.data.entity.Node;
-import com.geminidata.model.NodeRequest;
-import com.geminidata.service.NodeService;
+import com.etcd.data.entity.Node;
+import com.etcd.model.NodeRequest;
+import com.etcd.service.NodeService;
 
 import java.util.List;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.geminidata.config;
+package com.etcd.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

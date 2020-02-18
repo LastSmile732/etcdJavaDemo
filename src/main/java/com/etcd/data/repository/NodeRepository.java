@@ -1,8 +1,8 @@
-package com.geminidata.data.repository;
+package com.etcd.data.repository;
 
 import org.springframework.stereotype.Repository;
 
-import com.geminidata.data.entity.Node;
+import com.etcd.data.entity.Node;
 
 import java.util.List;
 import java.util.Map;

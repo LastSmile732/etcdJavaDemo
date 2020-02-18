@@ -1,4 +1,4 @@
-package com.geminidata.config;
+package com.etcd.config;
 
 import java.net.URI;
 import java.util.ArrayList;

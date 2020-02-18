@@ -1,4 +1,4 @@
-package com.geminidata.manage.etcdMaster;
+package com.etcd.demo.etcdMaster;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

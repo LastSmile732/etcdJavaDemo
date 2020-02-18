@@ -1,4 +1,4 @@
-package com.geminidata.controller;
+package com.etcd.controller;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.core.JsonGenerator;
